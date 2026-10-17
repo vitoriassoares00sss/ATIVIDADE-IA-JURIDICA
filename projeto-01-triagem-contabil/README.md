@@ -13,4 +13,3 @@ Atividade: Oficina prática (IA Jurídica – Unidade 02, Aula 06). Trabalho ind
 
 **Responsável pela revisão:** associado/sócio do escritório, antes de qualquer agendamento ou resposta ser definitiva.
 
-**Aviso:** todos os dados são fictícios. Nenhum dado real de cliente deve ser digitado em ferramenta de IA pública.
