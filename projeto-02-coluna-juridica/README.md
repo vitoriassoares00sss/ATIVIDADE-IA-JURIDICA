@@ -8,4 +8,3 @@ Atividade: Oficina prática (IA Jurídica – Unidade 02, Aula 06). Trabalho ind
 
 **Responsável pela revisão:** o próprio advogado, autor da coluna, antes de qualquer envio à redação.
 
-**Aviso:** dados e casos fictícios. Não mencionar caso real identificável.
